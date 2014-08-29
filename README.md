@@ -6,9 +6,9 @@
 <h2>Database Structure</h2>
 <p>Data is modeled in a relational database using MySQL. The graphical user interface software used to maintain the MySQL database is Navicat. The structure of the database allows faculty to be associated to with one department and one college. Faculty can be associated with multiple items. Each item can be associated with a single category. Because of the many-to-many relationship between faculty and items, the faculty_items table serves as a linking table to allow that relationship. The primary keys for categories, colleges, departments, faculty_items, and items are auto generated. The faculty_id is pulled from the mentis system.</p>
 <p>Table: Categories</p>
-<table border="1" cellspacing="0" cellpadding="0">
+<table>
   <tr>
-    <td width="148" valign="top"><br />
+    <td width="148" valign="top">
       Field name </td>
     <td width="148" valign="top"><p>Field type</p></td>
     <td width="148" valign="top"><p>Example</p></td>
@@ -25,9 +25,9 @@
   </tr>
 </table>
 <p>Table: Colleges</p>
-<table border="1" cellspacing="0" cellpadding="0">
+<table>
   <tr>
-    <td width="148" valign="top"><br />
+    <td width="148" valign="top">
       Field name </td>
     <td width="148" valign="top"><p>Field type</p></td>
     <td width="148" valign="top"><p>Example</p></td>
@@ -59,12 +59,12 @@
   </tr>
 </table>
 <p>Table: Departments</p>
-<table border="1" cellspacing="0" cellpadding="0">
+<table>
   <tr>
-    <td width="148" valign="top"><br />
+    <td width="148" valign="top">
       Field name </td>
-    <td width="148" valign="top"><p>Field type</p></td>
-    <td width="148" valign="top"><p>Example</p></td>
+    <td width="148" valign="top">Field type</td>
+    <td width="148" valign="top">Example</td>
   </tr>
   <tr>
     <td width="148" valign="top"><p>Department_id</p></td>
