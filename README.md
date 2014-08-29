@@ -8,10 +8,9 @@
 <p>Table: Categories</p>
 <table>
   <tr>
-    <td width="148" valign="top">
-      Field name </td>
-    <td width="148" valign="top"><p>Field type</p></td>
-    <td width="148" valign="top"><p>Example</p></td>
+    <th>Field name </th>
+    <th>Field type</th>
+    <th>Example</th>
   </tr>
   <tr>
     <td width="148" valign="top"><p>Category_id</p></td>
@@ -61,10 +60,9 @@
 <p>Table: Departments</p>
 <table>
   <tr>
-    <td width="148" valign="top">
-      Field name </td>
-    <td width="148" valign="top">Field type</td>
-    <td width="148" valign="top">Example</td>
+    <th>Field name </th>
+    <th>Field type</th>
+    <th>Example</th>
   </tr>
   <tr>
     <td width="148" valign="top"><p>Department_id</p></td>
@@ -93,12 +91,11 @@
   </tr>
 </table>
 <p>Table: Faculty</p>
-<table border="1" cellspacing="0" cellpadding="0">
+<table>
   <tr>
-    <td width="148" valign="top"><br />
-      Field name </td>
-    <td width="148" valign="top"><p>Field type</p></td>
-    <td width="148" valign="top"><p>Example</p></td>
+    <th>Field name </th>
+    <th>Field type</th>
+    <th>Example</th>
   </tr>
   <tr>
     <td width="148" valign="top"><p>Faculty_id</p></td>
@@ -162,12 +159,11 @@
   </tr>
 </table>
 <p>Table: Faculty_items</p>
-<table border="1" cellspacing="0" cellpadding="0">
+<table>
   <tr>
-    <td width="148" valign="top"><br />
-      Field name </td>
-    <td width="148" valign="top"><p>Field type</p></td>
-    <td width="148" valign="top"><p>Example</p></td>
+    <th>Field name </th>
+    <th>Field type</th>
+    <th>Example</th>
   </tr>
   <tr>
     <td width="148" valign="top"><p>Faculty_item_id</p></td>
@@ -186,12 +182,11 @@
   </tr>
 </table>
 <p>Table: Items</p>
-<table border="1" cellspacing="0" cellpadding="0">
+<table>
   <tr>
-    <td width="148" valign="top"><br />
-      Field name </td>
-    <td width="148" valign="top"><p>Field type</p></td>
-    <td width="148" valign="top"><p>Example</p></td>
+    <th>Field name </th>
+    <th>Field type</th>
+    <th>Example</th>
   </tr>
   <tr>
     <td width="148" valign="top"><p>Item_id</p></td>
