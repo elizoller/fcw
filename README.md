@@ -26,10 +26,9 @@
 <p>Table: Colleges</p>
 <table>
   <tr>
-    <td width="148" valign="top">
-      Field name </td>
-    <td width="148" valign="top"><p>Field type</p></td>
-    <td width="148" valign="top"><p>Example</p></td>
+    <th>Field name </th>
+    <th>Field type</th>
+    <th>Example</th>
   </tr>
   <tr>
     <td width="148" valign="top"><p>College_id</p></td>
